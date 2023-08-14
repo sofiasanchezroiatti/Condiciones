@@ -1,0 +1,67 @@
+.container {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+}
+.container2 {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: row;
+   gap: 10px;
+}
+.img1 {
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+}
+.imagen {
+   width: 250px;
+   height: 200px;
+}
+.parrafo {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   font-size: 1em;
+}
+h1 {
+   display: flex;
+   justify-content: center;
+}
+.btn {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.tittle {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: row;
+}
+.select {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: row;
+}
+
+.text {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: row;
+}
+
+.link {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-top: 10px;
+   text-decoration-line: none;
+}
